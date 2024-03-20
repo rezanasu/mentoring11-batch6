@@ -49,4 +49,4 @@ jobs:
     - run: npm ci
     - run: npm run build --if-present
     - name: run unit testing
-      run: npm test
+      run: npm docker-test
