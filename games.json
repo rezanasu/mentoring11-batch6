@@ -1,0 +1,123 @@
+[
+    {
+      "title": "The Legend of Zelda: Breath of the Wild",
+      "categories": "Action-Adventure",
+      "year": 2017,
+      "platforms": "Nintendo Switch, Wii U"
+    },
+    {
+      "title": "Red Dead Redemption 2",
+      "categories": "Action-Adventure, Western",
+      "year": 2018,
+      "platforms": "PlayStation 4, Xbox One, PC"
+    },
+    {
+      "title": "The Witcher 3: Wild Hunt",
+      "categories": "Action RPG",
+      "year": 2015,
+      "platforms": "PlayStation 4, Xbox One, PC, Nintendo Switch"
+    },
+    {
+      "title": "Fortnite",
+      "categories": "Battle Royale, Shooter",
+      "year": 2017,
+      "platforms": "Multiple platforms"
+    },
+    {
+      "title": "Minecraft",
+      "categories": "Sandbox, Survival",
+      "year": 2011,
+      "platforms": "Multiple platforms"
+    },
+    {
+      "title": "Overwatch",
+      "categories": "First-Person Shooter",
+      "year": 2016,
+      "platforms": "PlayStation 4, Xbox One, PC, Nintendo Switch"
+    },
+    {
+      "title": "Grand Theft Auto V",
+      "categories": "Action-Adventure",
+      "year": 2013,
+      "platforms": "PlayStation 4, Xbox One, PC, PlayStation 3, Xbox 360"
+    },
+    {
+      "title": "Final Fantasy XV",
+      "categories": "Action RPG",
+      "year": 2016,
+      "platforms": "PlayStation 4, Xbox One, PC"
+    },
+    {
+      "title": "Assassin's Creed Odyssey",
+      "categories": "Action-Adventure, RPG",
+      "year": 2018,
+      "platforms": "PlayStation 4, Xbox One, PC, Nintendo Switch"
+    },
+    {
+      "title": "Super Mario Odyssey",
+      "categories": "Platformer",
+      "year": 2017,
+      "platforms": "Nintendo Switch"
+    },
+    {
+      "title": "Call of Duty: Modern Warfare",
+      "categories": "First-Person Shooter",
+      "year": 2019,
+      "platforms": "PlayStation 4, Xbox One, PC"
+    },
+    {
+      "title": "Cyberpunk 2077",
+      "categories": "Action RPG",
+      "year": 2020,
+      "platforms": "PlayStation 4, Xbox One, PC, PlayStation 5, Xbox Series X/S"
+    },
+    {
+      "title": "God of War",
+      "categories": "Action-Adventure",
+      "year": 2018,
+      "platforms": "PlayStation 4, PlayStation 5"
+    },
+    {
+      "title": "Destiny 2",
+      "categories": "First-Person Shooter, MMO",
+      "year": 2017,
+      "platforms": "PlayStation 4, Xbox One, PC"
+    },
+    {
+      "title": "Star Wars Jedi: Fallen Order",
+      "categories": "Action-Adventure",
+      "year": 2019,
+      "platforms": "PlayStation 4, Xbox One, PC"
+    },
+    {
+      "title": "Animal Crossing: New Horizons",
+      "categories": "Life Simulation",
+      "year": 2020,
+      "platforms": "Nintendo Switch"
+    },
+    {
+      "title": "Horizon Zero Dawn",
+      "categories": "Action RPG",
+      "year": 2017,
+      "platforms": "PlayStation 4, PC"
+    },
+    {
+      "title": "DOOM Eternal",
+      "categories": "First-Person Shooter",
+      "year": 2020,
+      "platforms": "PlayStation 4, Xbox One, PC, Nintendo Switch"
+    },
+    {
+      "title": "Spider-Man: Miles Morales",
+      "categories": "Action-Adventure",
+      "year": 2020,
+      "platforms": "PlayStation 4, PlayStation 5"
+    },
+    {
+      "title": "The Last of Us Part II",
+      "categories": "Action-Adventure",
+      "year": 2020,
+      "platforms": "PlayStation 4, PlayStation 5"
+    }
+]
+  
